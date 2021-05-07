@@ -78,6 +78,7 @@ public class BrokerBean extends AbstractAgentBean {
 
 			if (payload instanceof StartGameResponse) {
 				/* do something */
+				/**test 1 */
 			}
 		}
 	}
