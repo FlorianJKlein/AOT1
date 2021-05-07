@@ -1,0 +1,231 @@
+2021-05-07 18:23:43,350 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:23:50,671 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:23:58,148 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:05,662 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:13,190 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:20,702 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:28,208 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:35,743 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:43,194 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:50,762 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:24:58,259 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:05,760 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:13,267 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:20,783 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:28,263 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:35,772 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:43,328 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:50,814 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:25:58,318 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:05,811 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:13,322 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:20,859 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:28,350 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:35,926 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:43,362 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:50,864 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:26:58,399 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:27:05,861 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:27:13,381 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:27:20,932 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:27:28,409 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:27:35,900 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+2021-05-07 18:27:43,445 ERROR [n-155f42297731c.JmxConnectorManager] - Unable to send multicast message on interface lo
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.base/java.net.TwoStacksPlainDatagramSocketImpl.send(Native Method)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:695)
+	at de.dailab.jiactng.agentcore.management.jmx.JmxConnectorManager.run(JmxConnectorManager.java:152)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
